@@ -4,12 +4,13 @@
 
 ### Technology & Engineering Professional
 
-**DevOps & CI/CD • Cloud Operations • QA / API & Database Testing**<br>
+**QA / API & Database Testing • Test Automation • DevOps & CI/CD • Cloud Operations**<br>
 **Environmental Engineering Background • New York State EIT**
 
+[![Technical Portfolio](https://img.shields.io/badge/Technical_Portfolio-View_Live_Site-4AA3FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://daryal89.github.io/dhruba-aryal-portfolio/)
+[![QA Portfolio](https://img.shields.io/badge/QA_Portfolio-View_Project-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/daryal89/api-database-testing-portfolio)
 [![DevOps Portfolio](https://img.shields.io/badge/DevOps_Portfolio-View_Project-0969DA?style=for-the-badge&logo=github)](https://github.com/daryal89/devops-ci-cd-deployment-portfolio)
 [![Live Azure Deployment](https://img.shields.io/badge/Live_Azure_Deployment-Open-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://ca-devops-portfolio-api.politedune-2cb686dc.eastus2.azurecontainerapps.io)
-[![QA Portfolio](https://img.shields.io/badge/QA_Portfolio-View_Project-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/daryal89/api-database-testing-portfolio)
 
 [![DevOps Release](https://img.shields.io/github/v/release/daryal89/devops-ci-cd-deployment-portfolio?style=flat-square&label=DevOps%20Release)](https://github.com/daryal89/devops-ci-cd-deployment-portfolio/releases/latest)
 [![QA Release](https://img.shields.io/github/v/release/daryal89/api-database-testing-portfolio?style=flat-square&label=QA%20Release)](https://github.com/daryal89/api-database-testing-portfolio/releases/latest)
@@ -28,48 +29,27 @@ I am currently focused on individual-contributor and re-entry opportunities wher
 
 ---
 
-## Career Paths
+## Current Focus
 
-I am intentionally pursuing several related career lanes rather than limiting my search to a single job title.
+### QA, API & Test Automation
+
+Software testing, REST API validation, Postman/Newman automation, SQL/PostgreSQL validation, CI quality gates, requirements traceability, and defect documentation.
 
 ### DevOps, CI/CD & Cloud Operations
 
-Strongest alignment with my recent DevOps portfolio and prior DevOps experience:
+Git/GitHub workflows, GitHub Actions, Docker, GHCR, Azure Container Apps, federated OIDC authentication, deployment validation, rollback, recovery, and release workflows.
 
-- DevOps Engineer / Associate DevOps Engineer
-- CI/CD Engineer
-- Build & Release Engineer
-- Release / Deployment Engineer
-- DevOps Support Engineer
-- Cloud Support / Cloud Operations Engineer
-- Application / Production Support Engineer
-- Technical Operations Engineer
+### Environmental Engineering
 
-### QA, API & Database Testing
+Secondary re-entry pathway based on my Earth System Science and Environmental Engineering education and New York State EIT credential.
 
-Strong alignment with my prior QA experience and completed API/database testing portfolio:
+---
 
-- QA Engineer / Software Test Engineer
-- API Test Engineer
-- Database Test Engineer
-- Quality Engineer
-- QA Automation / Test Automation roles aligned with API, Postman/Newman, SQL, and CI/CD
-- Data Quality / Data Validation roles with a strong SQL and testing focus
+## Technical Portfolio
 
-### Environmental & Engineering Re-entry
+🌐 **Live portfolio:** [daryal89.github.io/dhruba-aryal-portfolio](https://daryal89.github.io/dhruba-aryal-portfolio/)
 
-My environmental pathway is based on my engineering education and EIT credential rather than recent professional environmental-field experience.
-
-I am open to suitable early-career or re-entry opportunities such as:
-
-- Entry-Level / Staff Environmental Engineer
-- Environmental Scientist
-- Environmental Analyst
-- Environmental Engineering / Science Project Support
-- Environmental Compliance Support
-- Water Quality or Remediation Support roles where training and re-entry are appropriate
-
-For environmental roles, my goal is to apply my engineering foundation while building current field-specific experience.
+The portfolio brings together my professional experience, DevOps/CI/CD project, QA automation project, technical skills, education, credentials, resume, and detailed technical case studies.
 
 ---
 
@@ -231,12 +211,12 @@ Used directly in completed portfolio projects and currently being reinforced thr
 
 | Role | Employer / Engagement | Period | Work arrangement |
 |---|---|---|---|
-| QA Engineer | Matlin Silver — Bank of America client engagement | Feb 2019–Apr 2019 | Plano, TX • On-site |
-| QA Engineer | Infosys | Apr 2019–Sep 2019 | Raleigh, NC • On-site |
-| QA Engineer | Otorix Inc. — Wells Fargo client engagement | Mar 2020–Sep 2020 | Charlotte, NC • On-site |
-| DevOps Engineer | Northwestern Mutual | Sep 2022–Apr 2023 | Remote |
+| Automation Engineer | Matlen Silver — Bank of America client engagement | Feb 2019–Apr 2019 | Plano, TX • On-site • Contract |
+| Technical Test Lead – US | Infosys — short-term client testing assignment | Apr 2019–Sep 2019 | Raleigh, NC • On-site • Full-time |
+| QA Test Engineer | ITORIX LLC — Wells Fargo client engagement | Mar 2020–Sep 2020 | Charlotte, NC • On-site • Contract |
+| Senior Network Security DevOps Engineer | Northwestern Mutual | Sep 2022–Apr 2023 | Milwaukee, WI • Remote • Full-time |
 
-After a family-care career break, I resumed structured technical development through hands-on portfolio work, repeated review, and ongoing technical preparation.
+Following a career break beginning in 2023, I resumed structured technical development through hands-on DevOps and QA portfolio projects, repeated technical review, and ongoing skills reinforcement.
 
 ---
 
@@ -279,8 +259,10 @@ I am especially interested in roles involving:
 
 ## Connect
 
-- GitHub: [@daryal89](https://github.com/daryal89)
-- DevOps Portfolio: [Production CI/CD Deployment Portfolio](https://github.com/daryal89/devops-ci-cd-deployment-portfolio)
-- QA Portfolio: [API, Database & CI Test Automation Portfolio](https://github.com/daryal89/api-database-testing-portfolio)
+- 🌐 Portfolio: [daryal89.github.io/dhruba-aryal-portfolio](https://daryal89.github.io/dhruba-aryal-portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/dhruba-aryal](https://www.linkedin.com/in/dhruba-aryal/)
+- 💻 GitHub: [@daryal89](https://github.com/daryal89)
+- 🚀 DevOps Portfolio: [Production CI/CD Deployment Portfolio](https://github.com/daryal89/devops-ci-cd-deployment-portfolio)
+- 🧪 QA Portfolio: [API, Database & CI Test Automation Portfolio](https://github.com/daryal89/api-database-testing-portfolio)
 
-Open to professional networking and suitable opportunities across **DevOps/Cloud Operations, Software Quality/Testing, and Environmental/Engineering re-entry**.
+Open to remote U.S. opportunities across **QA/Test Automation, Software Testing, DevOps/CI/CD, Cloud Operations, API/Database Testing, and related technical roles**.
